@@ -1,0 +1,17 @@
+.follow-us {
+    background-color: yellow;
+    padding: 10px;
+    border: 1px solid #ddd;
+    font-size: 16px;
+    text-align: center;
+}
+
+
+.follow-us a {
+    color: #0073aa;
+    text-decoration: none;
+    font-weight: bold;
+}
+.follow-us a:hover { 
+    color: #005177;
+}
