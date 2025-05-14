@@ -22,7 +22,7 @@ if ( is_single() ) {
 // Message you want to display after the post
 // Add URLs to your own Twitter and Facebook profiles
  
-$content .= '<div><p class="follow-us">Add links to all posts via a custom plugin <a href="https://www.linkedin.com/in/semenenkomaria/" title="Linkedin" target="_blank" rel="nofollow">Linkedin</a> and <a href="https://www.facebook.com/wpbeginner" title="WPBeginner on Facebook" target="_blank" rel="nofollow">Facebook</a>.</p></div>';
+$content .= '<div><p class="follow-us">Follow Us: <a href="https://www.linkedin.com/in/semenenkomaria/" title="Linkedin" target="_blank" rel="nofollow">Linkedin</a> and <a href="https://github.com/MariySemenenko/wpb-plugin-tutorial?tab=readme-ov-file" title="WPBeginner on GitHub" target="_blank" rel="nofollow">GitHub</a>.</p></div>';
 
  
 }
